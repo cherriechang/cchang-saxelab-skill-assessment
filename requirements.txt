@@ -1,0 +1,6 @@
+# Standard library requirements:
+# - collections.Counter
+# - collections.defaultdict
+
+# External dependencies:
+numpy>=1.12.0
