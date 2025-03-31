@@ -1,6 +1,8 @@
 # Mixed Design Randomization Challenge
 
-This repository contains algorithms for solving mixed design randomization challenges in experimental design.
+This repository contains algorithms for solving the balancing experimentation design challenge.
+
+Here are 2 ways to installing the package to run the Python scripts for each algorithm.
 
 ## Installation
 
@@ -8,8 +10,8 @@ This repository contains algorithms for solving mixed design randomization chall
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/cherrie-saxelab-skill-challenges.git
-cd cherrie-saxelab-skill-challenges
+git clone https://github.com/your-username/cchang-saxelab-skill-challenges.git
+cd cchang-saxelab-skill-challenges
 
 # Create and activate virtual environment (optional but recommended)
 python -m venv .venv
@@ -23,8 +25,8 @@ pip install -e .
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/cherrie-saxelab-skill-challenges.git
-cd cherrie-saxelab-skill-challenges
+git clone https://github.com/your-username/cchang-saxelab-skill-challenges.git
+cd cchang-saxelab-skill-challenges
 
 # Create and activate virtual environment (optional but recommended)
 python -m venv .venv
